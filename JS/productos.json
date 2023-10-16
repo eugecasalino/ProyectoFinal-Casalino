@@ -1,0 +1,172 @@
+[
+    {
+        "id": "remera-01",
+        "titulo": "Remera MOSCÚ",
+        "img": "./img/remeras/remera-01.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remera-02",
+        "titulo": "Remera PRAGA",
+        "img": "./img/remeras/remera-02.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remera-0",
+        "titulo": "Remera PARIS",
+        "img": "./img/remeras/remera-03.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remera-04",
+        "titulo": "Remera L.A",
+        "img": "./img/remeras/remera-04.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remera-05",
+        "titulo": "Remera NEW YORK",
+        "img": "./img/remeras/remera-05.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remera-06",
+        "titulo": "Remera PEKÍN",
+        "img": "./img/remeras/remera-06.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remera-07",
+        "titulo": "Remera CHICAGO",
+        "img": "./img/remeras/remera-07.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remera-08",
+        "titulo": "Remera LONDRES",
+        "img": "./img/remeras/remera-08.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remera-09",
+        "titulo": "Remera TOKIO",
+        "img": "./img/remeras/remera-09.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "remera-10",
+        "titulo": "Remera ROMA",
+        "img": "./img/remeras/remera-10.jpg",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Buzo NAIROBI",
+        "img": "./img/camperas-buzos/buzo-01.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "buzo-02",
+        "titulo": "Buzo SENDAI",
+        "img": "./img/camperas-buzos/buzo-02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "buzo-03",
+        "titulo": "Buzo ATENAS",
+        "img": "./img/camperas-buzos/buzo-03.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "campera-01",
+        "titulo": "Campera LIMA",
+        "img": "./img/camperas-buzos/campera-01.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "campera-02",
+        "titulo": "Campera BARCELONA",
+        "img": "./img/camperas-buzos/campera-02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "campera-03",
+        "titulo": "Campera BOGOTÁ",
+        "img": "./img/camperas-buzos/campera-03.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "campera-04",
+        "titulo": "Campera MILÁN",
+        "img": "./img/camperas-buzos/campera-04.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    }
+]

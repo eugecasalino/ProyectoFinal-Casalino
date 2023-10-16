@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNIQUE SHOP</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <script src="https://kit.fontawesome.com/d503c2dcb5.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="./img/favicon-16x16.png" type="imagen/x-icon">
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+
+<body>
+
+    <div class="wrapper">
+        <header class="header-mobile">
+            <h1 class="logo">Unique Shop</h1>
+            <button class="open-menu" id="open-menu">
+            </button>
+        </header>
+        <aside>
+            <button class="close-menu" id="close-menu">
+            </button>
+            <header>
+                <h1 class="logo">Unique Shop</h1>
+            </header>
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <button id="todos" class="boton-menu boton-categoria active"><i class="fa-solid fa-circle"></i>
+                            Todos los productos</button>
+                    </li>
+                    <li>
+                        <button id="abrigos" class="boton-menu boton-categoria"><i class="fa-solid fa-caret-up"></i>
+                            Abrigos</button>
+                    </li>
+                    <li>
+                        <button id="remeras" class="boton-menu boton-categoria"><i class="fa-solid fa-caret-up"></i>
+                            Remeras</button>
+                    </li>
+                    <li>
+                        <a class="boton-menu boton-carrito" href="./carrito.html">
+                            <i class="fa-solid fa-cart-shopping"></i> Carrito <span id="numerito"
+                                class="numerito">0</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            <footer>
+                <p class="texto-footer">2023 - Eugenia Casalino</p>
+            </footer>
+        </aside>
+        <main>
+            <h2 class="titulo-principal" id="titulo-principal">Todos los productos</h2>
+            <div id="contenedor-productos" class="contenedor-productos">
+            </div>
+        </main>
+    </div>
+
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="./JS/menu.js"></script>
+    <script src="./JS/main.js"></script>
+</body>
+
+</html>
