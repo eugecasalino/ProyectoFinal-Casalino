@@ -172,11 +172,31 @@
     {
         "id": "vestido-01",
         "titulo": "Vestido Lino",
-        "img": "./img/",
+        "img": "./img/vestidos/vestido-01.jpg",
         "categoria": {
             "nombre": "Vestidos",
             "id": "vestidos"
         },
-        "precio": 44000
+        "precio": 30000
+    },
+    {
+        "id": "vestido-02",
+        "titulo": "Vestido Esmeralda",
+        "img": "./img/vestidos/vestido-02.jpg",
+        "categoria": {
+            "nombre": "Vestidos",
+            "id": "vestidos"
+        },
+        "precio": 35000
+    },
+    {
+        "id": "vestido-03",
+        "titulo": "Vestido Blue",
+        "img": "./img/vestidos/vestido-03.jpg",
+        "categoria": {
+            "nombre": "Vestidos",
+            "id": "vestidos"
+        },
+        "precio": 22000
     }
 ]
