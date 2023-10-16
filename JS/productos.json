@@ -7,7 +7,7 @@
             "nombre": "Remeras",
             "id": "remeras"
         },
-        "precio": 1000
+        "precio": 10000
     },
     {
         "id": "remera-02",
@@ -17,7 +17,7 @@
             "nombre": "Remeras",
             "id": "remeras"
         },
-        "precio": 1000
+        "precio": 14000
     },
     {
         "id": "remera-0",
@@ -27,7 +27,7 @@
             "nombre": "Remeras",
             "id": "remeras"
         },
-        "precio": 1000
+        "precio": 12000
     },
     {
         "id": "remera-04",
@@ -37,7 +37,7 @@
             "nombre": "Remeras",
             "id": "remeras"
         },
-        "precio": 1000
+        "precio": 14000
     },
     {
         "id": "remera-05",
@@ -47,7 +47,7 @@
             "nombre": "Remeras",
             "id": "remeras"
         },
-        "precio": 1000
+        "precio": 12000
     },
     {
         "id": "remera-06",
@@ -57,7 +57,7 @@
             "nombre": "Remeras",
             "id": "remeras"
         },
-        "precio": 1000
+        "precio": 11000
     },
     {
         "id": "remera-07",
@@ -67,7 +67,7 @@
             "nombre": "Remeras",
             "id": "remeras"
         },
-        "precio": 1000
+        "precio": 14000
     },
     {
         "id": "remera-08",
@@ -77,7 +77,7 @@
             "nombre": "Remeras",
             "id": "remeras"
         },
-        "precio": 1000
+        "precio": 16000
     },
     {
         "id": "remera-09",
@@ -87,7 +87,7 @@
             "nombre": "Remeras",
             "id": "remeras"
         },
-        "precio": 1000
+        "precio": 12000
     },
     {
         "id": "remera-10",
@@ -97,7 +97,7 @@
             "nombre": "Remeras",
             "id": "remeras"
         },
-        "precio": 1000
+        "precio": 16000
     },
     {
         "id": "camiseta-06",
@@ -107,7 +107,7 @@
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 25000
     },
     {
         "id": "buzo-02",
@@ -117,7 +117,7 @@
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 26000
     },
     {
         "id": "buzo-03",
@@ -127,7 +127,7 @@
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 30000
     },
     {
         "id": "campera-01",
@@ -137,7 +137,7 @@
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 40000
     },
     {
         "id": "campera-02",
@@ -147,7 +147,7 @@
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 20000
     },
     {
         "id": "campera-03",
@@ -157,7 +157,7 @@
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 65000
     },
     {
         "id": "campera-04",
@@ -167,6 +167,16 @@
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 1000
+        "precio": 44000
+    },
+    {
+        "id": "vestido-01",
+        "titulo": "Vestido Lino",
+        "img": "./img/",
+        "categoria": {
+            "nombre": "Vestidos",
+            "id": "vestidos"
+        },
+        "precio": 44000
     }
 ]
